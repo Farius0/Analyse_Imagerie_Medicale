@@ -19,5 +19,5 @@ du patient, puis les caractériser.<br>
 clinique.
 
 ## Résultats
-- [Visualisation des organes en mouvements](https://www.youtube.com/shorts/-D0IFKWgvaU))
+- [Visualisation des organes en mouvements](https://www.youtube.com/shorts/-D0IFKWgvaU)
 - Les mouvements estimés pourraient donc se résumer aux mouvements du coeur, des poumons et des reins.
