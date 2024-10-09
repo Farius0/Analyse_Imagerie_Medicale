@@ -5,7 +5,7 @@ pour surmonter les défis posés par les mouvements physiologiques lors des proc
 médicales.
 
 ## Librairies principales
-- Python
+- Numpy
 - Matplotlib
 - sklearn.decomposition
 
