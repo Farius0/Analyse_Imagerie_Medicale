@@ -11,12 +11,12 @@ médicales.
 
 ## Objectifs
 — implémenter une méthode de calcul du flot optique pour estimer les déformations élastiques
-des organes.\\
+des organes.<br>
 — étudier la cohérence spatio-temporelle des déplacements estimés à l’aide de l’Analyse
 en Composantes Principales (ACP), afin d’identifier les motifs de mouvement prépondérants
-du patient, puis les caractériser.\\
+du patient, puis les caractériser.<br>
 — fournir une base solide pour pour les algorithmes de tracking qui serviront à l’application
-clinique.\\
+clinique.
 
 ## Résultats
 - [Visualisation des organes en mouvements](https://www.youtube.com/shorts/-D0IFKWgvaU))
