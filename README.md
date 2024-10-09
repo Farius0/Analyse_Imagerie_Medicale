@@ -10,12 +10,12 @@ médicales.
 - sklearn.decomposition
 
 ## Objectifs
-— implémenter une méthode de calcul du flot optique pour estimer les déformations élastiques
+* implémenter une méthode de calcul du flot optique pour estimer les déformations élastiques
 des organes.<br>
-— étudier la cohérence spatio-temporelle des déplacements estimés à l’aide de l’Analyse
+* étudier la cohérence spatio-temporelle des déplacements estimés à l’aide de l’Analyse
 en Composantes Principales (ACP), afin d’identifier les motifs de mouvement prépondérants
 du patient, puis les caractériser.<br>
-— fournir une base solide pour pour les algorithmes de tracking qui serviront à l’application
+* fournir une base solide pour pour les algorithmes de tracking qui serviront à l’application
 clinique.
 
 ## Résultats
