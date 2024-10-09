@@ -4,9 +4,10 @@ Ce projet explore l’utilisation du flot optique et de l’Analyse en Composant
 pour surmonter les défis posés par les mouvements physiologiques lors des procédures
 médicales.
 
-## Technologies utilisées
+## Librairies principales
 - Python
-- Pandas, Matplotlib
+- Matplotlib
+- sklearn.decomposition
 
 ## Objectifs
 — implémenter une méthode de calcul du flot optique pour estimer les déformations élastiques
@@ -18,4 +19,5 @@ du patient, puis les caractériser.
 clinique.
 
 ## Résultats
-- [Lien vers les visualisations](#)
+- [Visualisation des organes en mouvements](https://www.youtube.com/shorts/-D0IFKWgvaU))
+- Les mouvements estimés pourraient donc se résumer aux mouvements du coeur, des poumons et des reins.
