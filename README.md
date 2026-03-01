@@ -21,3 +21,7 @@ clinique.
 ## Résultats
 - [Visualisation des organes en mouvements](https://www.youtube.com/shorts/-D0IFKWgvaU)
 - Les mouvements estimés pourraient donc se résumer aux mouvements du coeur, des poumons et des reins.
+
+---
+
+⭐ If you find this repository useful, feel free to star it.
